@@ -3,9 +3,8 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "RTMC"
+  tagline: 我喜欢你
   actions:
     - theme: brand
       text: Markdown Examples
