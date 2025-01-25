@@ -4,15 +4,16 @@ layout: home
 
 hero:
   name: "RTMC"
-  tagline: 我喜欢你
+  tagline: 面向萌新与熟练者的资源包技术向文档
+  image:
+    src: /logo.png
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 进入文档
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: 实际案例
       link: /api-examples
-
 features:
   - title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -21,4 +22,4 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
+## hello world

@@ -2,17 +2,17 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "我喜欢你",
-  description: "我喜欢注释",
+  title: "RTMC",
+  description: "空空如也",
   base: '/ResourcesTechnicalMC/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.svg',
     nav: [
       { text: '主页', link: '/' },
-      { text: '文档', link: '/markdown-examples' }
+      { text: '文档', link: '/markdown-examples' },
+      { text: 'Wiki', link: 'https://zh.minecraft.wiki/' }
     ],
-
     sidebar: [
       {
         text: '开始',
@@ -24,7 +24,26 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/yizhi9jiyan9/ResourcesTechnicalMC' }
-    ]
-  }
+      { icon: 'github', link: 'https://github.com/yizhi9jiyan9/ResourcesTechnicalMC' },
+      { icon: 'bilibili', link: 'https://github.com/yizhi9jiyan9/ResourcesTechnicalMC' }
+    ],
+    lastUpdated: {
+      text: "最后更新于",
+      formatOptions: {
+        dateStyle: "short", // full
+        timeStyle: "short", // medium
+      },
+    },
+    docFooter: {
+      prev: "上一页",
+      next: "下一页",
+    },
+    footer: {
+      message: 'Released under the NONE License.',
+      copyright: 'Copyright © 2025-present Evan You'
+    }
+  },
+  head: [
+    ['link', { rel: 'icon', href: '/ResourcesTechnicalMC/logo.png' }]
+  ],
 })

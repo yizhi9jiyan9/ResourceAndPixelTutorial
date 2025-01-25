@@ -1,0 +1,14 @@
+:root {
+    --vp-c-brand-1: #10b981;
+    --vp-c-brand-2: #34d399;
+    --vp-c-brand-3: #10b981;
+}
+
+.vp-doc a {
+    text-decoration: none;
+}
+
+:root {
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe, #41d1ff);
+}
