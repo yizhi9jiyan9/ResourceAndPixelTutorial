@@ -7,17 +7,17 @@ export default defineConfig({
   base: '/ResourcesTechnicalMC/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/logo.svg',
+    logo: '/logo.png',
     nav: [
       { text: '主页', link: '/' },
-      { text: '文档', link: '/markdown-examples' },
+      { text: '文档', link: '/start/前言' },
       { text: 'Wiki', link: 'https://zh.minecraft.wiki/' }
     ],
     sidebar: [
       {
         text: '开始',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
+          { text: '前言', link: '/start/前言' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }

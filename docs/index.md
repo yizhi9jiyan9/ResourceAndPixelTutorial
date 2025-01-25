@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: 进入文档
-      link: /markdown-examples
+      link: /start/前言
     - theme: alt
       text: 实际案例
       link: /api-examples
