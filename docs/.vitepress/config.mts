@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "我喜欢你",
   description: "我喜欢注释",
-  base: '/rtmc/',
+  base: '/ResourcesTechnicalMC/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.svg',
