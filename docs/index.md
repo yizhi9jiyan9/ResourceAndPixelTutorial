@@ -3,8 +3,9 @@
 layout: home
 
 hero:
-  name: "RTMC"
-  tagline: 面向萌新与熟练者的资源包技术向文档
+  name: RTMC
+  text: 一篇包含实例与理论的资源包技术向文档
+  tagline: 欢迎来到这个没人光顾的文档 :D
   image:
     src: /logo.png
   actions:
