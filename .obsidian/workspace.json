@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/start/前言.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "前言"
+              "title": "index"
             }
           }
         ]
@@ -167,12 +167,12 @@
   },
   "active": "af5751c65ece2fc3",
   "lastOpenFiles": [
+    "docs/api-examples.md",
+    "docs/start/前言.md",
     "docs/public/logo.png",
     "docs/public/Group 5.png",
-    "docs/api-examples.md",
     "docs/public/logo.svg",
     "docs/index.md",
-    "docs/start/前言.md",
     "docs/markdown-examples.md",
     "README.md",
     "start/1.md"

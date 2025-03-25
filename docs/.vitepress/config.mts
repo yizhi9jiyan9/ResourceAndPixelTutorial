@@ -24,8 +24,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/yizhi9jiyan9/ResourcesTechnicalMC' },
-      { icon: 'bilibili', link: 'https://github.com/yizhi9jiyan9/ResourcesTechnicalMC' }
+      { icon: 'github', link: 'https://github.com/yizhi9jiyan9/ResourcesTechnicalMC' }
     ],
     lastUpdated: {
       text: "最后更新于",
