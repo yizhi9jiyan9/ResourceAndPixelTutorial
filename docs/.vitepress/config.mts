@@ -2,9 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "R&TT",
+  title: "R&PT",
   description: "空空如也",
-  base: '/ResourcesTechnicalMC/',
+  base: '/ResourceAndPixelTutorial/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.png',
@@ -24,7 +24,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/yizhi9jiyan9/ResourcesTechnicalMC' }
+      { icon: 'github', link: 'https://github.com/yizhi9jiyan9/ResourceAndPixelTutorial' }
     ],
     lastUpdated: {
       text: "最后更新于",
@@ -43,6 +43,6 @@ export default defineConfig({
     }
   },
   head: [
-    ['link', { rel: 'icon', href: '/ResourcesTechnicalMC/logo.png' }]
+    ['link', { rel: 'icon', href: '/ResourceAndPixelTutorial/logo.png' }]
   ],
 })

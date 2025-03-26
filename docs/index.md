@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name:  R&PTutorial
+  name:  R&PT
   text: 一篇包含实例与理论的资源包技术向文档
   tagline: 欢迎来到这个没人光顾的文档 :D
   image:
