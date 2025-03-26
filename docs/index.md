@@ -20,6 +20,6 @@ features:
     title: 方块&物品教程
     details: 从理论到实践学习方块模型映射、模型、纹理与物品。
   - icon: ⭕
-    title: 红石显示
+    title: 空
     details: 不知道写什么:D
 ---
