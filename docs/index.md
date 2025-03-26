@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: RTMC
+  name:  R&PTutorial
   text: 一篇包含实例与理论的资源包技术向文档
   tagline: 欢迎来到这个没人光顾的文档 :D
   image:
@@ -16,11 +16,10 @@ hero:
       text: 实际案例
       link: /api-examples
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 💥
+    title: 方块&物品教程
+    details: 从理论到实践学习方块模型映射、模型、纹理与物品。
+  - icon: ⭕
+    title: 红石显示
+    details: 不知道写什么:D
 ---
-## hello world

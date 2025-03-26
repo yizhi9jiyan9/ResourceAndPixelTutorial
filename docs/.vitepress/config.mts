@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "RTMC",
+  title: "R&TT",
   description: "空空如也",
   base: '/ResourcesTechnicalMC/',
   themeConfig: {
@@ -38,8 +38,8 @@ export default defineConfig({
       next: "下一页",
     },
     footer: {
-      message: 'Released under the NONE License.',
-      copyright: 'Copyright © 2025-present Evan You'
+      message: 'Released under the ARR License.',
+      copyright: 'Copyright © 2025 yizhi9jiyan9'
     }
   },
   head: [
